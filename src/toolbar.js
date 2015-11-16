@@ -51,7 +51,8 @@ var defaultItems = [
 		{ type:'color', label:'Color', items:defaultColors },
 		{ type:'background', label:'Background color', items:defaultColors },
 		{ type:'separator' },
-		{ type:'link', label:'Link' }
+		{ type:'link', label:'Link' },
+		{ type:'image', label:'Image' }
 	]},
 
 	{ label:'Blocks', type:'group', items: [
